@@ -1,0 +1,1003 @@
+<bbsmenu lastup="Sun, 03 Jun 2012 13:53:25 GMT">
+  <category title="地震">
+    <board dir="bbynamazu" title="地震headline" url="http://headline.2ch.net/bbynamazu/" />
+    <board dir="namazuplus" title="地震速報" url="http://anago.2ch.net/namazuplus/" />
+    <board dir="eq" title="臨時地震" url="http://hayabusa.2ch.net/eq/" />
+    <board dir="eqplus" title="臨時地震+" url="http://hayabusa2.2ch.net/eqplus/" />
+    <board dir="lifeline" title="緊急自然災害" url="http://uni.2ch.net/lifeline/" />
+  </category>
+  <category title="おすすめ">
+    <board dir="shapeup" title="ダイエット" url="http://uni.2ch.net/shapeup/" />
+    <board dir="sky" title="天文・気象" url="http://ikura.2ch.net/sky/" />
+    <board dir="souji" title="掃除全般" url="http://uni.2ch.net/souji/" />
+    <board dir="sousai" title="冠婚葬祭" url="http://uni.2ch.net/sousai/" />
+    <board dir="dcamera" title="デジカメ" url="http://toro.2ch.net/dcamera/" />
+  </category>
+  <category title="特別企画">
+    <board title="2ch検索" url="http://find.2ch.net/" />
+    <board title="be.2ch.net" url="http://be.2ch.net/" />
+    <board title="アンケート" url="http://find.2ch.net/enq/board.php" />
+    <board title="2chビューア" url="http://2ch.tora3.net/" />
+    <board title="テレビ番組欄" url="http://epg.2ch.net/tv2chwiki/" />
+    <board title="2chオークション" url="http://shop.2ch.net/" />
+    <board title="2ch観察帳" url="http://watch.2ch.net/" />
+  </category>
+  <category title="be">
+    <board dir="be" title="面白ネタnews" url="http://kohada.2ch.net/be/" />
+    <board dir="nandemo" title="なんでも質問" url="http://ikura.2ch.net/nandemo/" />
+    <board dir="argue" title="朝生" url="http://ikura.2ch.net/argue/" />
+  </category>
+  <category title="ニュース">
+    <board dir="bbynews" title="速報headline" url="http://headline.2ch.net/bbynews/" />
+    <board title="2NN+" url="http://newsnavi.2ch.net/" />
+    <board dir="bizplus" title="ビジネスnews+" url="http://anago.2ch.net/bizplus/" />
+    <board dir="newsplus" title="ニュース速報+" url="http://uni.2ch.net/newsplus/" />
+    <board dir="lifeline" title="緊急自然災害" url="http://uni.2ch.net/lifeline/" />
+    <board dir="wildplus" title="ニュース二軍+" url="http://anago.2ch.net/wildplus/" />
+    <board dir="moeplus" title="萌えニュース+" url="http://anago.2ch.net/moeplus/" />
+    <board dir="mnewsplus" title="芸スポ速報+" url="http://awabi.2ch.net/mnewsplus/" />
+    <board dir="femnewsplus" title="ほのぼのnews+" url="http://anago.2ch.net/femnewsplus/" />
+    <board dir="dqnplus" title="痛いニュース+" url="http://anago.2ch.net/dqnplus/" />
+    <board dir="scienceplus" title="科学ニュース+" url="http://anago.2ch.net/scienceplus/" />
+    <board dir="owabiplus" title="お詫び+" url="http://anago.2ch.net/owabiplus/" />
+    <board dir="liveplus" title="ニュース実況+" url="http://kohada.2ch.net/liveplus/" />
+    <board dir="news" title="ニュース速報" url="http://hayabusa3.2ch.net/news/" />
+    <board dir="trafficinfo" title="交通情報" url="http://ikura.2ch.net/trafficinfo/" />
+    <board dir="musicnews" title="芸能音楽速報" url="http://ikura.2ch.net/musicnews/" />
+    <board dir="comicnews" title="アニメ漫画速報" url="http://engawa.2ch.net/comicnews/" />
+    <board dir="gamenews" title="ゲーム速報" url="http://awabi.2ch.net/gamenews/" />
+    <board dir="pcnews" title="PCニュース" url="http://kohada.2ch.net/pcnews/" />
+    <board dir="news7" title="私のニュース" url="http://ikura.2ch.net/news7/" />
+    <board dir="archives" title="懐かしニュース" url="http://ikura.2ch.net/archives/" />
+    <board dir="news2" title="ニュース議論" url="http://toro.2ch.net/news2/" />
+    <board dir="asia" title="ニュース極東" url="http://anago.2ch.net/asia/" />
+    <board dir="bakanews" title="バカニュース" url="http://ikura.2ch.net/bakanews/" />
+    <board dir="editorial" title="社説" url="http://engawa.2ch.net/editorial/" />
+    <board dir="wikileaks" title="WikiLeaks" url="http://uni.2ch.net/wikileaks/" />
+  </category>
+  <category title="世界情勢">
+    <board dir="kokusai" title="国際情勢" url="http://uni.2ch.net/kokusai/" />
+    <board dir="war" title="戦争・国防" url="http://engawa.2ch.net/war/" />
+    <board dir="news4plus" title="東アジアnews+" url="http://awabi.2ch.net/news4plus/" />
+    <board dir="news5" title="イスラム情勢" url="http://ikura.2ch.net/news5/" />
+    <board dir="iraq" title="イラク情勢" url="http://uni.2ch.net/iraq/" />
+    <board dir="africa" title="アフリカ情勢" url="http://awabi.2ch.net/africa/" />
+    <board dir="europa" title="欧州・CIS情勢" url="http://awabi.2ch.net/europa/" />
+    <board dir="news5plus" title="ニュース国際+" url="http://anago.2ch.net/news5plus/" />
+    <board dir="dejima" title="dejima" url="http://uni.2ch.net/dejima/" />
+  </category>
+  <category title="案内">
+    <board dir="entrance" title="ラウンジ" url="http://ikura.2ch.net/entrance/" />
+    <board dir="entrance2" title="ﾗｳﾝｼﾞｸﾗｼｯｸ" url="http://uni.2ch.net/entrance2/" />
+    <board dir="qa" title="初心者の質問" url="http://ikura.2ch.net/qa/" />
+    <board dir="pcqa" title="PC初心者" url="http://kohada.2ch.net/pcqa/" />
+    <board dir="wiki" title="2chプロジェクト" url="http://info.2ch.net/wiki/" />
+    <board dir="goods" title="グッズリスト" url="http://ikura.2ch.net/goods/" />
+    <board dir="gline" title="ガイドライン" url="http://anago.2ch.net/gline/" />
+    <board dir="event" title="イベント企画" url="http://ikura.2ch.net/event/" />
+    <board dir="2chse" title="2ch証券取引所" url="http://uni.2ch.net/2chse/" />
+    <board dir="rank" title="いろいろランク" url="http://info.2ch.net/rank/" />
+    <board dir="dataroom" title="資料室" url="http://ikura.2ch.net/dataroom/" />
+    <board dir="vote" title="投票所" url="http://kohada.2ch.net/vote/" />
+    <board dir="sato" title="忍者の里" url="http://uni.2ch.net/sato/" />
+  </category>
+  <category title="運営">
+    <board dir="operate" title="2ch運用情報" url="http://qb5.2ch.net/operate/" />
+    <board dir="operatex" title="運用情報臨時" url="http://uni.2ch.net/operatex/" />
+    <board dir="sec2ch" title="2ch規制情報" url="http://qb5.2ch.net/sec2ch/" />
+    <board dir="sec2chd" title="2ch規制議論" url="http://qb5.2ch.net/sec2chd/" />
+    <board dir="saku2ch" title="削除要請" url="http://qb5.2ch.net/saku2ch/" />
+    <board dir="saku" title="削除整理" url="http://qb5.2ch.net/saku/" />
+    <board dir="sakud" title="削除議論" url="http://qb5.2ch.net/sakud/" />
+    <board dir="sakukb" title="削除知恵袋" url="http://qb5.2ch.net/sakukb/" />
+  </category>
+  <category title="馴れ合い">
+    <board dir="intro" title="自己紹介" url="http://toro.2ch.net/intro/" />
+    <board dir="honobono" title="ほのぼの" url="http://kohada.2ch.net/honobono/" />
+    <board dir="yume" title="夢・独り言" url="http://kohada.2ch.net/yume/" />
+    <board dir="offmatrix" title="大規模OFF" url="http://kohada.2ch.net/offmatrix/" />
+    <board dir="offreg" title="定期OFF" url="http://engawa.2ch.net/offreg/" />
+    <board dir="offevent" title="突発OFF" url="http://toro.2ch.net/offevent/" />
+  </category>
+  <category title="AA">
+    <board dir="aasaloon" title="AAサロン" url="http://toro.2ch.net/aasaloon/" />
+    <board dir="mona" title="モナー" url="http://toro.2ch.net/mona/" />
+    <board dir="nida" title="ニダー" url="http://engawa.2ch.net/nida/" />
+    <board dir="aastory" title="AA長編" url="http://toro.2ch.net/aastory/" />
+    <board dir="kao" title="顔文字" url="http://toro.2ch.net/kao/" />
+  </category>
+  <category title="社会">
+    <board dir="mass" title="マスコミ" url="http://anago.2ch.net/mass/" />
+    <board dir="youth" title="少年犯罪" url="http://anago.2ch.net/youth/" />
+    <board dir="disaster" title="自然災害" url="http://uni.2ch.net/disaster/" />
+    <board dir="119" title="消防救急防災" url="http://anago.2ch.net/119/" />
+    <board dir="gender" title="男性論女性論" url="http://toro.2ch.net/gender/" />
+    <board dir="giin" title="議員・選挙" url="http://awabi.2ch.net/giin/" />
+    <board dir="manifesto" title="政治家語録" url="http://ikura.2ch.net/manifesto/" />
+    <board dir="police" title="警察" url="http://uni.2ch.net/police/" />
+    <board dir="court" title="裁判・司法" url="http://anago.2ch.net/court/" />
+    <board dir="saibanin" title="裁判員制度" url="http://engawa.2ch.net/saibanin/" />
+    <board dir="soc" title="社会・世評" url="http://uni.2ch.net/soc/" />
+    <board dir="atom" title="環境・電力" url="http://anago.2ch.net/atom/" />
+    <board dir="energy" title="エネルギー" url="http://uni.2ch.net/energy/" />
+    <board dir="river" title="河川・ダム等" url="http://anago.2ch.net/river/" />
+    <board dir="traf" title="運輸・交通" url="http://uni.2ch.net/traf/" />
+    <board dir="way" title="道路・高速道路" url="http://engawa.2ch.net/way/" />
+    <board dir="develop" title="都市計画" url="http://anago.2ch.net/develop/" />
+    <board dir="recruit" title="就職" url="http://uni.2ch.net/recruit/" />
+    <board dir="job" title="転職" url="http://kohada.2ch.net/job/" />
+    <board dir="volunteer" title="ボランティア" url="http://uni.2ch.net/volunteer/" />
+    <board dir="welfare" title="介護・福祉" url="http://anago.2ch.net/welfare/" />
+    <board dir="mayor" title="地方自治知事" url="http://uni.2ch.net/mayor/" />
+    <board dir="ftax" title="ふるさと納税" url="http://engawa.2ch.net/ftax/" />
+    <board dir="jsdf" title="自衛隊" url="http://uni.2ch.net/jsdf/" />
+    <board dir="nenga" title="郵便・郵政" url="http://toro.2ch.net/nenga/" />
+    <board dir="lifework" title="生涯学習" url="http://engawa.2ch.net/lifework/" />
+    <board dir="regulate" title="通信行政" url="http://anago.2ch.net/regulate/" />
+  </category>
+  <category title="会社・職業">
+    <board dir="venture" title="ベンチャー" url="http://uni.2ch.net/venture/" />
+    <board dir="manage" title="経営学" url="http://toro.2ch.net/manage/" />
+    <board dir="management" title="店舗運営" url="http://engawa.2ch.net/management/" />
+    <board dir="estate" title="賃貸不動産" url="http://engawa.2ch.net/estate/" />
+    <board dir="koumu" title="公務員" url="http://uni.2ch.net/koumu/" />
+    <board dir="shikaku" title="法律勉強相談" url="http://engawa.2ch.net/shikaku/" />
+    <board dir="lic" title="資格全般" url="http://ikura.2ch.net/lic/" />
+    <board dir="haken" title="派遣業界" url="http://engawa.2ch.net/haken/" />
+    <board dir="hoken" title="保険業界" url="http://anago.2ch.net/hoken/" />
+    <board dir="tax" title="税金経理会計" url="http://toro.2ch.net/tax/" />
+    <board dir="exam" title="会計全般試験" url="http://kohada.2ch.net/exam/" />
+    <board dir="hosp" title="病院・医者" url="http://anago.2ch.net/hosp/" />
+    <board dir="bio" title="医療業界" url="http://anago.2ch.net/bio/" />
+    <board dir="hikari" title="光通信" url="http://anago.2ch.net/hikari/" />
+    <board dir="dtp" title="DTP・印刷" url="http://engawa.2ch.net/dtp/" />
+    <board dir="part" title="アルバイト" url="http://kohada.2ch.net/part/" />
+    <board dir="koukoku" title="広告業界" url="http://anago.2ch.net/koukoku/" />
+    <board dir="agri" title="農林水産業" url="http://anago.2ch.net/agri/" />
+    <board dir="build" title="建設住宅業界" url="http://engawa.2ch.net/build/" />
+    <board dir="industry" title="製造業界" url="http://engawa.2ch.net/industry/" />
+    <board dir="peko" title="食品業界・問題" url="http://ikura.2ch.net/peko/" />
+  </category>
+  <category title="裏社会">
+    <board dir="company" title="ちくり裏事情" url="http://awabi.2ch.net/company/" />
+    <board dir="bouhan" title="防犯・詐欺対策" url="http://uni.2ch.net/bouhan/" />
+    <board dir="antispam" title="架空請求・spam" url="http://toro.2ch.net/antispam/" />
+    <board dir="ihou" title="薬・違法" url="http://anago.2ch.net/ihou/" />
+    <board dir="ihan" title="違反の潰し方" url="http://anago.2ch.net/ihan/" />
+  </category>
+  <category title="文化">
+    <board dir="expo" title="万博・地方博" url="http://ikura.2ch.net/expo/" />
+    <board dir="subcal" title="サブカル" url="http://engawa.2ch.net/subcal/" />
+    <board dir="bun" title="創作文芸" url="http://toro.2ch.net/bun/" />
+    <board dir="mitemite" title="創作発表" url="http://engawa.2ch.net/mitemite/" />
+    <board dir="poem" title="詩・ポエム" url="http://toro.2ch.net/poem/" />
+    <board dir="rongo" title="名言・格言" url="http://anago.2ch.net/rongo/" />
+    <board dir="movie" title="映画一般・8mm" url="http://awabi.2ch.net/movie/" />
+    <board dir="cinema" title="映画作品・人" url="http://awabi.2ch.net/cinema/" />
+    <board dir="rmovie" title="懐かし邦画" url="http://uni.2ch.net/rmovie/" />
+    <board dir="kinema" title="懐かし洋画" url="http://uni.2ch.net/kinema/" />
+    <board dir="occult" title="オカルト" url="http://toro.2ch.net/occult/" />
+    <board dir="esp" title="超能力" url="http://ikura.2ch.net/esp/" />
+    <board dir="sfx" title="特撮！" url="http://toro.2ch.net/sfx/" />
+    <board dir="rsfx" title="昭和特撮" url="http://uni.2ch.net/rsfx/" />
+    <board dir="drama" title="演劇・舞台役者" url="http://awabi.2ch.net/drama/" />
+    <board dir="siki" title="宝塚・四季" url="http://awabi.2ch.net/siki/" />
+    <board dir="fortune" title="占い" url="http://engawa.2ch.net/fortune/" />
+    <board dir="uranai" title="占術理論実践" url="http://engawa.2ch.net/uranai/" />
+    <board dir="kyoto" title="神社・仏閣" url="http://ikura.2ch.net/kyoto/" />
+    <board dir="gallery" title="美術鑑賞" url="http://awabi.2ch.net/gallery/" />
+    <board dir="rakugo" title="伝統芸能" url="http://awabi.2ch.net/rakugo/" />
+    <board dir="ruins" title="世界遺産" url="http://anago.2ch.net/ruins/" />
+    <board dir="emperor" title="皇室・王侯貴族" url="http://anago.2ch.net/emperor/" />
+  </category>
+  <category title="学問・理系">
+    <board dir="rikei" title="理系全般" url="http://uni.2ch.net/rikei/" />
+    <board dir="sci" title="物理" url="http://uni.2ch.net/sci/" />
+    <board dir="life" title="生物" url="http://uni.2ch.net/life/" />
+    <board dir="bake" title="化学" url="http://ikura.2ch.net/bake/" />
+    <board dir="kikai" title="機械・工学" url="http://ikura.2ch.net/kikai/" />
+    <board dir="denki" title="電気・電子" url="http://uni.2ch.net/denki/" />
+    <board dir="robot" title="ロボット技術" url="http://uni.2ch.net/robot/" />
+    <board dir="infosys" title="情報システム" url="http://ikura.2ch.net/infosys/" />
+    <board dir="informatics" title="情報学" url="http://uni.2ch.net/informatics/" />
+    <board dir="sim" title="シミュレート" url="http://ikura.2ch.net/sim/" />
+    <board dir="nougaku" title="農学" url="http://ikura.2ch.net/nougaku/" />
+    <board dir="sky" title="天文・気象" url="http://ikura.2ch.net/sky/" />
+    <board dir="galileo" title="宇宙" url="http://uni.2ch.net/galileo/" />
+    <board dir="doctor" title="医歯薬看護" url="http://engawa.2ch.net/doctor/" />
+    <board dir="kampo" title="東洋医学" url="http://uni.2ch.net/kampo/" />
+    <board dir="math" title="数学" url="http://uni.2ch.net/math/" />
+    <board dir="doboku" title="土木・建築" url="http://ikura.2ch.net/doboku/" />
+    <board dir="material" title="材料物性" url="http://ikura.2ch.net/material/" />
+    <board dir="space" title="航空・船舶" url="http://toro.2ch.net/space/" />
+    <board dir="future" title="未来技術" url="http://uni.2ch.net/future/" />
+    <board dir="wild" title="野生生物" url="http://uni.2ch.net/wild/" />
+    <board dir="earth" title="地球科学" url="http://uni.2ch.net/earth/" />
+  </category>
+  <category title="学問・文系">
+    <board dir="psycho" title="心理学" url="http://awabi.2ch.net/psycho/" />
+    <board dir="gengo" title="言語学" url="http://awabi.2ch.net/gengo/" />
+    <board dir="dialect" title="方言" url="http://anago.2ch.net/dialect/" />
+    <board dir="pedagogy" title="教育学" url="http://awabi.2ch.net/pedagogy/" />
+    <board dir="sociology" title="社会学" url="http://awabi.2ch.net/sociology/" />
+    <board dir="economics" title="経済学" url="http://awabi.2ch.net/economics/" />
+    <board dir="book" title="文学" url="http://toro.2ch.net/book/" />
+    <board dir="poetics" title="詩文学" url="http://toro.2ch.net/poetics/" />
+    <board dir="history" title="日本史" url="http://awabi.2ch.net/history/" />
+    <board dir="history2" title="日本近代史" url="http://awabi.2ch.net/history2/" />
+    <board dir="whis" title="世界史" url="http://awabi.2ch.net/whis/" />
+    <board dir="archeology" title="考古学" url="http://awabi.2ch.net/archeology/" />
+    <board dir="min" title="民俗・神話学" url="http://awabi.2ch.net/min/" />
+    <board dir="kobun" title="古文・漢文" url="http://awabi.2ch.net/kobun/" />
+    <board dir="english" title="ENGLISH" url="http://awabi.2ch.net/english/" />
+    <board dir="usa" title="アメリカ" url="http://awabi.2ch.net/usa/" />
+    <board dir="korea" title="ハングル" url="http://awabi.2ch.net/korea/" />
+    <board dir="china" title="中国" url="http://awabi.2ch.net/china/" />
+    <board dir="taiwan" title="台湾" url="http://awabi.2ch.net/taiwan/" />
+    <board dir="geo" title="地理・人類学" url="http://awabi.2ch.net/geo/" />
+    <board dir="chiri" title="地理お国自慢" url="http://ikura.2ch.net/chiri/" />
+    <board dir="gogaku" title="外国語" url="http://awabi.2ch.net/gogaku/" />
+    <board dir="art" title="芸術デザイン" url="http://awabi.2ch.net/art/" />
+    <board dir="philo" title="哲学" url="http://awabi.2ch.net/philo/" />
+    <board dir="jurisp" title="法学" url="http://awabi.2ch.net/jurisp/" />
+    <board dir="shihou" title="司法試験" url="http://kohada.2ch.net/shihou/" />
+  </category>
+  <category title="家電製品">
+    <board dir="kaden" title="家電製品" url="http://awabi.2ch.net/kaden/" />
+    <board dir="wm" title="ポータブルAV" url="http://ikura.2ch.net/wm/" />
+    <board dir="vcamera" title="ビデオカメラ" url="http://ikura.2ch.net/vcamera/" />
+    <board dir="bakery" title="調理家電" url="http://ikura.2ch.net/bakery/" />
+    <board dir="toilet" title="シャワートイレ" url="http://ikura.2ch.net/toilet/" />
+    <board dir="sony" title="ソニー" url="http://awabi.2ch.net/sony/" />
+    <board dir="apple2" title="Apple" url="http://engawa.2ch.net/apple2/" />
+    <board dir="phs" title="携帯・ＰＨＳ" url="http://awabi.2ch.net/phs/" />
+    <board dir="keitai" title="携帯機種" url="http://awabi.2ch.net/keitai/" />
+    <board dir="smartphone" title="スマートフォン" url="http://anago.2ch.net/smartphone/" />
+    <board dir="iPhone" title="iPhone" url="http://anago.2ch.net/iPhone/" />
+    <board dir="android" title="Android" url="http://anago.2ch.net/android/" />
+    <board dir="chakumelo" title="携帯コンテンツ" url="http://awabi.2ch.net/chakumelo/" />
+    <board dir="appli" title="携帯電話ゲー" url="http://hayabusa3.2ch.net/appli/" />
+    <board dir="applism" title="スマホアプリ" url="http://anago.2ch.net/applism/" />
+    <board dir="dgoods" title="デジタルモノ" url="http://awabi.2ch.net/dgoods/" />
+    <board dir="camera" title="カメラ" url="http://awabi.2ch.net/camera/" />
+    <board dir="dcamera" title="デジカメ" url="http://toro.2ch.net/dcamera/" />
+    <board dir="av" title="AV機器" url="http://toro.2ch.net/av/" />
+    <board dir="pav" title="ピュアAU" url="http://awabi.2ch.net/pav/" />
+    <board dir="battery" title="電池等" url="http://uni.2ch.net/battery/" />
+  </category>
+  <category title="政治経済">
+    <board dir="seiji" title="政治" url="http://toro.2ch.net/seiji/" />
+    <board dir="diplomacy" title="外交政策" url="http://anago.2ch.net/diplomacy/" />
+    <board dir="trafficpolicy" title="交通政策" url="http://anago.2ch.net/trafficpolicy/" />
+    <board dir="eco" title="経済" url="http://kohada.2ch.net/eco/" />
+    <board dir="stock" title="株式" url="http://anago.2ch.net/stock/" />
+    <board dir="stockb" title="株個別銘柄" url="http://engawa.2ch.net/stockb/" />
+    <board dir="market" title="投資一般" url="http://kohada.2ch.net/market/" />
+    <board dir="livemarket1" title="市況1" url="http://hayabusa3.2ch.net/livemarket1/" />
+    <board dir="livemarket2" title="市況2" url="http://hayabusa3.2ch.net/livemarket2/" />
+    <board dir="deal" title="先物" url="http://engawa.2ch.net/deal/" />
+    <board dir="koumei" title="創価・公明" url="http://anago.2ch.net/koumei/" />
+    <board dir="kyousan" title="共産党" url="http://toro.2ch.net/kyousan/" />
+    <board dir="sisou" title="政治思想" url="http://anago.2ch.net/sisou/" />
+    <board dir="kova" title="ゴーマニズム" url="http://anago.2ch.net/kova/" />
+    <board dir="money" title="金融" url="http://engawa.2ch.net/money/" />
+  </category>
+  <category title="食文化">
+    <board dir="food" title="食べ物" url="http://ikura.2ch.net/food/" />
+    <board dir="candy" title="お菓子" url="http://ikura.2ch.net/candy/" />
+    <board dir="juice" title="ソフトドリンク" url="http://ikura.2ch.net/juice/" />
+    <board dir="pot" title="お茶・珈琲" url="http://ikura.2ch.net/pot/" />
+    <board dir="cook" title="料理" url="http://ikura.2ch.net/cook/" />
+    <board dir="okome" title="米・米加工品" url="http://anago.2ch.net/okome/" />
+    <board dir="yasai" title="野菜・果物" url="http://engawa.2ch.net/yasai/" />
+    <board dir="kinoko" title="きのこ" url="http://uni.2ch.net/kinoko/" />
+    <board dir="salt" title="調味料" url="http://ikura.2ch.net/salt/" />
+    <board dir="ramen" title="ラーメン" url="http://toro.2ch.net/ramen/" />
+    <board dir="nissin" title="インスタント麺" url="http://ikura.2ch.net/nissin/" />
+    <board dir="jnoodle" title="そば・うどん" url="http://ikura.2ch.net/jnoodle/" />
+    <board dir="sushi" title="おすし" url="http://ikura.2ch.net/sushi/" />
+    <board dir="don" title="丼" url="http://ikura.2ch.net/don/" />
+    <board dir="curry" title="カレー" url="http://ikura.2ch.net/curry/" />
+    <board dir="bread" title="パン" url="http://ikura.2ch.net/bread/" />
+    <board dir="pasta" title="パスタ・ピザ" url="http://ikura.2ch.net/pasta/" />
+    <board dir="kbbq" title="焼肉" url="http://ikura.2ch.net/kbbq/" />
+    <board dir="konamono" title="たこ焼き等" url="http://ikura.2ch.net/konamono/" />
+    <board dir="toba" title="珍味" url="http://ikura.2ch.net/toba/" />
+    <board dir="gurume" title="グルメ外食" url="http://ikura.2ch.net/gurume/" />
+    <board dir="famires" title="ファミレス" url="http://ikura.2ch.net/famires/" />
+    <board dir="jfoods" title="Ｂ級グルメ" url="http://ikura.2ch.net/jfoods/" />
+    <board dir="bento" title="弁当・駅弁" url="http://ikura.2ch.net/bento/" />
+    <board dir="sake" title="お酒・Bar" url="http://toro.2ch.net/sake/" />
+    <board dir="wine" title="ワイン" url="http://ikura.2ch.net/wine/" />
+    <board dir="drunk" title="居酒屋" url="http://ikura.2ch.net/drunk/" />
+    <board dir="recipe" title="レシピ" url="http://ikura.2ch.net/recipe/" />
+    <board dir="patissier" title="製菓・製パン" url="http://ikura.2ch.net/patissier/" />
+    <board dir="supplement" title="健康食・サプリ" url="http://ikura.2ch.net/supplement/" />
+  </category>
+  <category title="生活">
+    <board dir="lifesaloon" title="生活サロン" url="http://uni.2ch.net/lifesaloon/" />
+    <board dir="kankon" title="生活全般" url="http://kohada.2ch.net/kankon/" />
+    <board dir="okiraku" title="その日暮らし" url="http://uni.2ch.net/okiraku/" />
+    <board dir="homealone" title="一人暮らし" url="http://uni.2ch.net/homealone/" />
+    <board dir="countrylife" title="田舎暮らし" url="http://uni.2ch.net/countrylife/" />
+    <board dir="debt" title="借金生活" url="http://anago.2ch.net/debt/" />
+    <board dir="inpatient" title="入院生活" url="http://uni.2ch.net/inpatient/" />
+    <board dir="sportsclub" title="スポーツクラブ" url="http://uni.2ch.net/sportsclub/" />
+    <board dir="bath" title="お風呂・銭湯" url="http://awabi.2ch.net/bath/" />
+    <board dir="anniversary" title="記念日" url="http://uni.2ch.net/anniversary/" />
+    <board dir="sousai" title="冠婚葬祭" url="http://uni.2ch.net/sousai/" />
+    <board dir="baby" title="育児" url="http://toro.2ch.net/baby/" />
+    <board dir="kagu" title="家具" url="http://uni.2ch.net/kagu/" />
+    <board dir="diy" title="DIY" url="http://awabi.2ch.net/diy/" />
+    <board dir="shop" title="通販・買い物" url="http://kohada.2ch.net/shop/" />
+    <board dir="hcenter" title="家電等量販店" url="http://anago.2ch.net/hcenter/" />
+    <board dir="used" title="中古リサイクル" url="http://engawa.2ch.net/used/" />
+    <board dir="rental" title="レンタル" url="http://anago.2ch.net/rental/" />
+    <board dir="trend" title="流行" url="http://uni.2ch.net/trend/" />
+    <board dir="ticketplus" title="Walker+" url="http://anago.2ch.net/ticketplus/" />
+    <board dir="model" title="モデル" url="http://uni.2ch.net/model/" />
+    <board dir="fashion" title="ファッション" url="http://toro.2ch.net/fashion/" />
+    <board dir="underwear" title="下着" url="http://engawa.2ch.net/underwear/" />
+    <board dir="shoes" title="靴" url="http://uni.2ch.net/shoes/" />
+    <board dir="female" title="化粧" url="http://uni.2ch.net/female/" />
+    <board dir="diet" title="美容" url="http://kohada.2ch.net/diet/" />
+    <board dir="mensbeauty" title="男の美容・化粧" url="http://awabi.2ch.net/mensbeauty/" />
+    <board dir="aroma" title="香水芳香消臭" url="http://anago.2ch.net/aroma/" />
+    <board dir="seikei" title="美容整形" url="http://uni.2ch.net/seikei/" />
+    <board dir="shapeup" title="ダイエット" url="http://uni.2ch.net/shapeup/" />
+    <board dir="world" title="一般海外生活" url="http://uni.2ch.net/world/" />
+    <board dir="northa" title="北米海外生活" url="http://uni.2ch.net/northa/" />
+    <board dir="credit" title="クレジット" url="http://uni.2ch.net/credit/" />
+    <board dir="point" title="ポイント・マイル" url="http://awabi.2ch.net/point/" />
+    <board dir="cafe30" title="３０代" url="http://ikura.2ch.net/cafe30/" />
+    <board dir="cafe40" title="４０代" url="http://toro.2ch.net/cafe40/" />
+    <board dir="cafe50" title="５０代以上" url="http://ikura.2ch.net/cafe50/" />
+    <board dir="cafe60" title="６０歳以上" url="http://anago.2ch.net/cafe60/" />
+    <board dir="live" title="家庭" url="http://awabi.2ch.net/live/" />
+    <board dir="souji" title="掃除全般" url="http://uni.2ch.net/souji/" />
+    <board dir="goki" title="害虫害獣対策" url="http://uni.2ch.net/goki/" />
+    <board dir="radiation" title="放射能" url="http://uni.2ch.net/radiation/" />
+    <board dir="kechi2" title="ドケチ" url="http://engawa.2ch.net/kechi2/" />
+    <board dir="chance" title="懸賞" url="http://uni.2ch.net/chance/" />
+    <board dir="cigaret" title="たばこ" url="http://uni.2ch.net/cigaret/" />
+    <board dir="megane" title="めがね" url="http://uni.2ch.net/megane/" />
+    <board dir="yuusen" title="マイライン" url="http://uni.2ch.net/yuusen/" />
+    <board dir="conv" title="コンビニ" url="http://uni.2ch.net/conv/" />
+    <board dir="sale" title="バーゲン" url="http://uni.2ch.net/sale/" />
+    <board dir="stationery" title="文房具" url="http://awabi.2ch.net/stationery/" />
+    <board dir="class" title="習い事" url="http://uni.2ch.net/class/" />
+  </category>
+  <category title="ネタ雑談">
+    <board dir="shar" title="新シャア専用" url="http://toro.2ch.net/shar/" />
+    <board dir="x3" title="旧シャア専用" url="http://kohada.2ch.net/x3/" />
+    <board dir="denpa" title="電波・お花畑" url="http://ikura.2ch.net/denpa/" />
+    <board dir="owarai" title="お笑い小咄" url="http://anago.2ch.net/owarai/" />
+    <board dir="2chbook" title="同人ノウハウ" url="http://kohada.2ch.net/2chbook/" />
+    <board dir="uwasa" title="噂話" url="http://kohada.2ch.net/uwasa/" />
+    <board dir="charaneta" title="キャラネタ" url="http://kohada.2ch.net/charaneta/" />
+    <board dir="charaneta2" title="なりきりネタ" url="http://kohada.2ch.net/charaneta2/" />
+    <board dir="mascot" title="マスコットキャラ" url="http://ikura.2ch.net/mascot/" />
+    <board dir="senji" title="戦時" url="http://uni.2ch.net/senji/" />
+  </category>
+  <category title="カテゴリ雑談">
+    <board dir="lovesaloon" title="恋愛サロン" url="http://toro.2ch.net/lovesaloon/" />
+    <board dir="ex" title="カップル" url="http://toro.2ch.net/ex/" />
+    <board dir="x1" title="×１" url="http://uni.2ch.net/x1/" />
+    <board dir="gaysaloon" title="同性愛サロン" url="http://kohada.2ch.net/gaysaloon/" />
+    <board dir="nohodame" title="のほほんダメ" url="http://engawa.2ch.net/nohodame/" />
+    <board dir="dame" title="無職・だめ" url="http://kohada.2ch.net/dame/" />
+    <board dir="loser" title="負け組" url="http://uni.2ch.net/loser/" />
+    <board dir="hikky" title="ヒッキー" url="http://ikura.2ch.net/hikky/" />
+    <board dir="mental" title="メンヘルサロン" url="http://toro.2ch.net/mental/" />
+    <board dir="single" title="独身貴族" url="http://ikura.2ch.net/single/" />
+    <board dir="wom" title="女性" url="http://engawa.2ch.net/wom/" />
+    <board dir="sfe" title="独身女性限定" url="http://engawa.2ch.net/sfe/" />
+    <board dir="wmotenai" title="もてない女" url="http://kohada.2ch.net/wmotenai/" />
+    <board dir="ms" title="既婚女性" url="http://ikura.2ch.net/ms/" />
+    <board dir="male" title="独身男性" url="http://awabi.2ch.net/male/" />
+    <board dir="motetai" title="もてたい男" url="http://ikura.2ch.net/motetai/" />
+    <board dir="motenai" title="モテない男性" url="http://toro.2ch.net/motenai/" />
+    <board dir="alone" title="孤独な男性" url="http://uni.2ch.net/alone/" />
+    <board dir="tomorrow" title="既婚男性" url="http://engawa.2ch.net/tomorrow/" />
+    <board dir="employee" title="リーマン" url="http://kohada.2ch.net/employee/" />
+    <board dir="campus" title="大学生活" url="http://ikura.2ch.net/campus/" />
+    <board dir="student" title="大学学部・研究" url="http://uni.2ch.net/student/" />
+    <board dir="otaku" title="おたく" url="http://engawa.2ch.net/otaku/" />
+    <board dir="nendai" title="年代別" url="http://ikura.2ch.net/nendai/" />
+    <board dir="sepia" title="セピア" url="http://uni.2ch.net/sepia/" />
+    <board dir="gag" title="駄洒落" url="http://kohada.2ch.net/gag/" />
+    <board dir="575" title="しりとり" url="http://kohada.2ch.net/575/" />
+    <board dir="tanka" title="五七五・短歌" url="http://kohada.2ch.net/tanka/" />
+    <board dir="4649" title="アウトロー" url="http://kohada.2ch.net/4649/" />
+    <board dir="hidari" title="左利き" url="http://engawa.2ch.net/hidari/" />
+  </category>
+  <category title="実況ch">
+    <board dir="bbylive" title="実況headline" url="http://headline.2ch.net/bbylive/" />
+    <board title="テレビ番組欄" url="http://epg.2ch.net/tv2chwiki/" />
+    <board dir="livesaturn" title="なんでも実況S" url="http://hayabusa.2ch.net/livesaturn/" />
+    <board dir="livevenus" title="なんでも実況V" url="http://hayabusa.2ch.net/livevenus/" />
+    <board dir="livejupiter" title="なんでも実況J" url="http://hayabusa.2ch.net/livejupiter/" />
+    <board dir="liveuranus" title="なんでも実況U" url="http://kohada.2ch.net/liveuranus/" />
+    <board dir="endless" title="実況ch" url="http://hayabusa.2ch.net/endless/" />
+    <board dir="weekly" title="番組ch" url="http://hayabusa2.2ch.net/weekly/" />
+    <board dir="livewkwest" title="番組ch(西日本)" url="http://hayabusa2.2ch.net/livewkwest/" />
+    <board dir="livenhk" title="番組ch(NHK)" url="http://hayabusa2.2ch.net/livenhk/" />
+    <board dir="liveetv" title="番組ch(教育)" url="http://hayabusa2.2ch.net/liveetv/" />
+    <board dir="liventv" title="番組ch(NTV)" url="http://hayabusa2.2ch.net/liventv/" />
+    <board dir="livetbs" title="番組ch(TBS)" url="http://hayabusa2.2ch.net/livetbs/" />
+    <board dir="livecx" title="番組ch(フジ)" url="http://hayabusa2.2ch.net/livecx/" />
+    <board dir="liveanb" title="番組ch(朝日)" url="http://hayabusa2.2ch.net/liveanb/" />
+    <board dir="livetx" title="番組ch(TX)" url="http://hayabusa2.2ch.net/livetx/" />
+    <board dir="livebs" title="BS実況(NHK)" url="http://hayabusa2.2ch.net/livebs/" />
+    <board dir="livebs2" title="BS実況(無料)" url="http://hayabusa.2ch.net/livebs2/" />
+    <board dir="livewowow" title="BS実況(有料)" url="http://hayabusa2.2ch.net/livewowow/" />
+    <board dir="liveskyp" title="スカパー実況" url="http://hayabusa2.2ch.net/liveskyp/" />
+    <board dir="liveradio" title="ラジオ実況" url="http://hayabusa2.2ch.net/liveradio/" />
+    <board dir="liveanime" title="アニメ特撮実況" url="http://hayabusa.2ch.net/liveanime/" />
+    <board dir="kokkai" title="議会選挙実況" url="http://hayabusa.2ch.net/kokkai/" />
+    <board dir="dome" title="スポーツch" url="http://hayabusa.2ch.net/dome/" />
+    <board dir="livebase" title="野球ch" url="http://hayabusa.2ch.net/livebase/" />
+    <board dir="livefoot" title="サッカーch" url="http://hayabusa.2ch.net/livefoot/" />
+    <board dir="oonna" title="五輪実況(女)" url="http://hayabusa.2ch.net/oonna/" />
+    <board dir="ootoko" title="五輪実況(男)" url="http://hayabusa.2ch.net/ootoko/" />
+    <board dir="dancesite" title="芸能ch" url="http://hayabusa.2ch.net/dancesite/" />
+    <board dir="festival" title="お祭りch" url="http://hayabusa.2ch.net/festival/" />
+    <board dir="liveplus" title="ニュース実況+" url="http://kohada.2ch.net/liveplus/" />
+    <board dir="jasmine" title="streaming実況" url="http://uni.2ch.net/jasmine/" />
+    <board dir="livemarket1" title="市況1" url="http://hayabusa3.2ch.net/livemarket1/" />
+    <board dir="livemarket2" title="市況2" url="http://hayabusa3.2ch.net/livemarket2/" />
+  </category>
+  <category title="受験・学校">
+    <board dir="edu" title="教育・先生" url="http://engawa.2ch.net/edu/" />
+    <board dir="jsaloon" title="大学受験サロン" url="http://kohada.2ch.net/jsaloon/" />
+    <board dir="kouri" title="大学受験" url="http://kohada.2ch.net/kouri/" />
+    <board dir="juku" title="学習塾・予備校" url="http://engawa.2ch.net/juku/" />
+    <board dir="ojyuken" title="お受験" url="http://engawa.2ch.net/ojyuken/" />
+    <board dir="senmon" title="専門学校" url="http://engawa.2ch.net/senmon/" />
+    <board dir="design" title="美術系学校" url="http://engawa.2ch.net/design/" />
+    <board dir="musicology" title="音楽系学校" url="http://engawa.2ch.net/musicology/" />
+    <board dir="govexam" title="公務員試験" url="http://kohada.2ch.net/govexam/" />
+  </category>
+  <category title="趣味">
+    <board dir="hobby" title="趣味一般" url="http://awabi.2ch.net/hobby/" />
+    <board dir="magic" title="手品・曲芸" url="http://ikura.2ch.net/magic/" />
+    <board dir="card" title="トランプ" url="http://awabi.2ch.net/card/" />
+    <board dir="puzzle" title="パズル" url="http://ikura.2ch.net/puzzle/" />
+    <board dir="craft" title="ハンドクラフト" url="http://awabi.2ch.net/craft/" />
+    <board dir="toy" title="おもちゃ" url="http://toro.2ch.net/toy/" />
+    <board dir="zoid" title="ゾイド" url="http://awabi.2ch.net/zoid/" />
+    <board dir="watch" title="時計・小物" url="http://awabi.2ch.net/watch/" />
+    <board dir="smoking" title="煙草銘柄・器具" url="http://awabi.2ch.net/smoking/" />
+    <board dir="knife" title="刃物" url="http://ikura.2ch.net/knife/" />
+    <board dir="doll" title="お人形" url="http://awabi.2ch.net/doll/" />
+    <board dir="engei" title="園芸" url="http://awabi.2ch.net/engei/" />
+    <board dir="dog" title="犬猫大好き" url="http://engawa.2ch.net/dog/" />
+    <board dir="pet" title="ペット大好き" url="http://engawa.2ch.net/pet/" />
+    <board dir="aquarium" title="アクアリウム" url="http://awabi.2ch.net/aquarium/" />
+    <board dir="goldenfish" title="日本の淡水魚" url="http://ikura.2ch.net/goldenfish/" />
+    <board dir="insect" title="昆虫・節足動物" url="http://ikura.2ch.net/insect/" />
+    <board dir="cat" title="生き物苦手" url="http://ikura.2ch.net/cat/" />
+    <board dir="bike" title="バイク" url="http://anago.2ch.net/bike/" />
+    <board dir="car" title="車" url="http://kohada.2ch.net/car/" />
+    <board dir="kcar" title="軽自動車" url="http://engawa.2ch.net/kcar/" />
+    <board dir="auto" title="車種・メーカー" url="http://kohada.2ch.net/auto/" />
+    <board dir="usedcar" title="中古車" url="http://engawa.2ch.net/usedcar/" />
+    <board dir="truck" title="大型・特殊車両" url="http://engawa.2ch.net/truck/" />
+    <board dir="army" title="軍事" url="http://toro.2ch.net/army/" />
+    <board dir="radio" title="無線" url="http://awabi.2ch.net/radio/" />
+    <board dir="train" title="鉄道総合" url="http://toro.2ch.net/train/" />
+    <board dir="rail" title="鉄道路線・車両" url="http://toro.2ch.net/rail/" />
+    <board dir="jnr" title="鉄道懐かし" url="http://engawa.2ch.net/jnr/" />
+    <board dir="ice" title="鉄道(海外)" url="http://ikura.2ch.net/ice/" />
+    <board dir="gage" title="鉄道模型" url="http://ikura.2ch.net/gage/" />
+    <board dir="bus" title="バス・バス路線" url="http://engawa.2ch.net/bus/" />
+    <board dir="airline" title="エアライン" url="http://awabi.2ch.net/airline/" />
+    <board dir="mokei" title="模型・プラモ" url="http://awabi.2ch.net/mokei/" />
+    <board dir="radiocontrol" title="RC（ラジコン)" url="http://ikura.2ch.net/radiocontrol/" />
+    <board dir="gun" title="サバゲー" url="http://awabi.2ch.net/gun/" />
+    <board dir="fireworks" title="花火" url="http://ikura.2ch.net/fireworks/" />
+    <board dir="warhis" title="三国志・戦国" url="http://engawa.2ch.net/warhis/" />
+    <board dir="chinahero" title="中国英雄" url="http://ikura.2ch.net/chinahero/" />
+    <board dir="sengoku" title="戦国時代" url="http://ikura.2ch.net/sengoku/" />
+    <board dir="nanminhis" title="歴史難民" url="http://ikura.2ch.net/nanminhis/" />
+    <board dir="dance" title="ダンス" url="http://awabi.2ch.net/dance/" />
+    <board dir="bird" title="野鳥観察" url="http://awabi.2ch.net/bird/" />
+    <board dir="collect" title="コレクション" url="http://awabi.2ch.net/collect/" />
+    <board dir="photo" title="写真撮影" url="http://ikura.2ch.net/photo/" />
+  </category>
+  <category title="スポーツ一般">
+    <board dir="sposaloon" title="スポーツサロン" url="http://engawa.2ch.net/sposaloon/" />
+    <board dir="sports" title="スポーツ" url="http://engawa.2ch.net/sports/" />
+    <board dir="rsports" title="懐かしスポーツ" url="http://engawa.2ch.net/rsports/" />
+    <board dir="stadium" title="スポーツ施設" url="http://engawa.2ch.net/stadium/" />
+    <board dir="athletics" title="陸上競技" url="http://kohada.2ch.net/athletics/" />
+    <board dir="gymnastics" title="体操・新体操" url="http://engawa.2ch.net/gymnastics/" />
+    <board dir="muscle" title="ウエイトトレ" url="http://engawa.2ch.net/muscle/" />
+    <board dir="noroma" title="運動音痴" url="http://engawa.2ch.net/noroma/" />
+    <board dir="wsports" title="冬スポーツ" url="http://engawa.2ch.net/wsports/" />
+    <board dir="ski" title="スキースノボ" url="http://engawa.2ch.net/ski/" />
+    <board dir="skate" title="スケート" url="http://toro.2ch.net/skate/" />
+    <board dir="swim" title="水泳" url="http://engawa.2ch.net/swim/" />
+    <board dir="msports" title="マリンスポーツ" url="http://engawa.2ch.net/msports/" />
+    <board dir="boat" title="船スポーツ" url="http://engawa.2ch.net/boat/" />
+    <board dir="birdman" title="空スポーツ" url="http://engawa.2ch.net/birdman/" />
+    <board dir="fish" title="釣り" url="http://kohada.2ch.net/fish/" />
+    <board dir="bass" title="バス釣り" url="http://engawa.2ch.net/bass/" />
+    <board dir="bicycle" title="自転車" url="http://kohada.2ch.net/bicycle/" />
+    <board dir="equestrian" title="乗馬・馬術" url="http://engawa.2ch.net/equestrian/" />
+    <board dir="f1" title="ﾓｰﾀｰｽﾎﾟｰﾂ" url="http://engawa.2ch.net/f1/" />
+    <board dir="olympic" title="オリンピック" url="http://engawa.2ch.net/olympic/" />
+    <board dir="bullseye" title="的スポーツ" url="http://engawa.2ch.net/bullseye/" />
+    <board dir="parksports" title="公園スポーツ" url="http://engawa.2ch.net/parksports/" />
+    <board dir="amespo" title="アメスポ" url="http://engawa.2ch.net/amespo/" />
+    <board dir="cheerleading" title="チア" url="http://engawa.2ch.net/cheerleading/" />
+    <board dir="xsports" title="xsports" url="http://engawa.2ch.net/xsports/" />
+  </category>
+  <category title="球技">
+    <board dir="base" title="プロ野球" url="http://uni.2ch.net/base/" />
+    <board dir="npb" title="球界改革議論" url="http://kohada.2ch.net/npb/" />
+    <board dir="meikyu" title="野球殿堂" url="http://uni.2ch.net/meikyu/" />
+    <board dir="mlb" title="野球総合" url="http://awabi.2ch.net/mlb/" />
+    <board dir="hsb" title="高校野球" url="http://kohada.2ch.net/hsb/" />
+    <board dir="kyozin" title="アンチ球団" url="http://kohada.2ch.net/kyozin/" />
+    <board dir="soccer" title="国内サッカー" url="http://ikura.2ch.net/soccer/" />
+    <board dir="eleven" title="日本代表蹴球" url="http://kohada.2ch.net/eleven/" />
+    <board dir="wc" title="ワールドカップ" url="http://uni.2ch.net/wc/" />
+    <board dir="football" title="海外サッカー" url="http://ikura.2ch.net/football/" />
+    <board dir="basket" title="バスケット" url="http://kohada.2ch.net/basket/" />
+    <board dir="tennis" title="テニス" url="http://engawa.2ch.net/tennis/" />
+    <board dir="volley" title="バレーボール" url="http://engawa.2ch.net/volley/" />
+    <board dir="ovalball" title="ラグビー" url="http://engawa.2ch.net/ovalball/" />
+    <board dir="pingpong" title="卓球" url="http://engawa.2ch.net/pingpong/" />
+    <board dir="gutter" title="ボウリング" url="http://engawa.2ch.net/gutter/" />
+    <board dir="golf" title="ゴルフ" url="http://engawa.2ch.net/golf/" />
+    <board dir="billiards" title="ビリヤード" url="http://engawa.2ch.net/billiards/" />
+    <board dir="ballgame" title="その他球技" url="http://engawa.2ch.net/ballgame/" />
+  </category>
+  <category title="格闘技">
+    <board dir="k1" title="格闘技" url="http://kohada.2ch.net/k1/" />
+    <board dir="wres" title="プロレス" url="http://kohada.2ch.net/wres/" />
+    <board dir="budou" title="武道・武芸" url="http://engawa.2ch.net/budou/" />
+    <board dir="boxing" title="ボクシング" url="http://kohada.2ch.net/boxing/" />
+    <board dir="sumou" title="相撲" url="http://engawa.2ch.net/sumou/" />
+    <board dir="jyudo" title="伝統武術" url="http://engawa.2ch.net/jyudo/" />
+  </category>
+  <category title="旅行・外出">
+    <board dir="oversea" title="海外旅行" url="http://ikura.2ch.net/oversea/" />
+    <board dir="21oversea" title="危ない海外" url="http://anago.2ch.net/21oversea/" />
+    <board dir="travel" title="国内旅行" url="http://ikura.2ch.net/travel/" />
+    <board dir="hotel" title="ホテル･旅館" url="http://ikura.2ch.net/hotel/" />
+    <board dir="localfoods" title="土産物・特産物" url="http://ikura.2ch.net/localfoods/" />
+    <board dir="tropical" title="トロピカル" url="http://ikura.2ch.net/tropical/" />
+    <board dir="onsen" title="温泉" url="http://ikura.2ch.net/onsen/" />
+    <board dir="park" title="遊園地" url="http://toro.2ch.net/park/" />
+    <board dir="zoo" title="動物園・水族館" url="http://ikura.2ch.net/zoo/" />
+    <board dir="museum" title="博物館・美術館" url="http://ikura.2ch.net/museum/" />
+    <board dir="out" title="登山キャンプ" url="http://ikura.2ch.net/out/" />
+  </category>
+  <category title="テレビ等">
+    <board dir="tvsaloon" title="テレビサロン" url="http://anago.2ch.net/tvsaloon/" />
+    <board dir="kouhaku" title="年末年始番組" url="http://uni.2ch.net/kouhaku/" />
+    <board dir="tv" title="テレビ番組" url="http://toro.2ch.net/tv/" />
+    <board dir="natsutv" title="懐かしテレビ" url="http://ikura.2ch.net/natsutv/" />
+    <board dir="tvd" title="テレビドラマ" url="http://awabi.2ch.net/tvd/" />
+    <board dir="nhkdrama" title="大河ドラマ" url="http://kohada.2ch.net/nhkdrama/" />
+    <board dir="natsudora" title="懐かしドラマ" url="http://ikura.2ch.net/natsudora/" />
+    <board dir="kin" title="時代劇" url="http://anago.2ch.net/kin/" />
+    <board dir="am" title="ラジオ番組" url="http://anago.2ch.net/am/" />
+    <board dir="rradio" title="懐かしラジオ" url="http://uni.2ch.net/rradio/" />
+    <board dir="tv2" title="海外テレビ" url="http://anago.2ch.net/tv2/" />
+    <board dir="hanryu" title="韓流" url="http://uni.2ch.net/hanryu/" />
+    <board dir="cs" title="ケーブル放送" url="http://anago.2ch.net/cs/" />
+    <board dir="skyp" title="スカパー" url="http://anago.2ch.net/skyp/" />
+    <board dir="bs" title="デジタル放送" url="http://anago.2ch.net/bs/" />
+    <board dir="nhk" title="NHK" url="http://anago.2ch.net/nhk/" />
+    <board dir="cm" title="広告・ＣＭ" url="http://anago.2ch.net/cm/" />
+  </category>
+  <category title="芸能">
+    <board dir="geino" title="芸能" url="http://anago.2ch.net/geino/" />
+    <board dir="celebrity" title="海外芸能人" url="http://anago.2ch.net/celebrity/" />
+    <board dir="4sama" title="アジアエンタメ" url="http://uni.2ch.net/4sama/" />
+    <board dir="kyon2" title="懐かし芸能人" url="http://anago.2ch.net/kyon2/" />
+    <board dir="actor" title="男性俳優" url="http://anago.2ch.net/actor/" />
+    <board dir="actress" title="女優" url="http://anago.2ch.net/actress/" />
+    <board dir="geinoj" title="U-15タレント" url="http://anago.2ch.net/geinoj/" />
+    <board dir="geinin" title="お笑い芸人" url="http://toro.2ch.net/geinin/" />
+    <board dir="ana" title="アナウンサー" url="http://kohada.2ch.net/ana/" />
+    <board dir="ami" title="あみ＆あゆ" url="http://anago.2ch.net/ami/" />
+    <board dir="apple" title="椎名林檎" url="http://anago.2ch.net/apple/" />
+    <board dir="ainotane" title="モ娘（羊）" url="http://anago.2ch.net/ainotane/" />
+    <board dir="zurui" title="モ娘（鳩）" url="http://anago.2ch.net/zurui/" />
+    <board dir="mendol" title="男性アイドル" url="http://anago.2ch.net/mendol/" />
+    <board dir="idol" title="女性アイドル" url="http://kohada.2ch.net/idol/" />
+    <board dir="akb" title="地下アイドル" url="http://awabi.2ch.net/akb/" />
+    <board dir="ske" title="ローカルアイドル" url="http://uni.2ch.net/ske/" />
+    <board dir="jan" title="ジャニーズ" url="http://anago.2ch.net/jan/" />
+    <board dir="smap" title="スマップ" url="http://anago.2ch.net/smap/" />
+    <board dir="jr" title="ジャニーズ２" url="http://anago.2ch.net/jr/" />
+    <board dir="jr2" title="ジャニーズJr" url="http://anago.2ch.net/jr2/" />
+  </category>
+  <category title="ギャンブル">
+    <board dir="mj" title="麻雀・他" url="http://anago.2ch.net/mj/" />
+    <board dir="pachi" title="パチンコサロン" url="http://kohada.2ch.net/pachi/" />
+    <board dir="pachij" title="パチンコ店情報" url="http://kohada.2ch.net/pachij/" />
+    <board dir="pachik" title="パチンコ機種等" url="http://kohada.2ch.net/pachik/" />
+    <board dir="slot" title="スロットサロン" url="http://kohada.2ch.net/slot/" />
+    <board dir="slotj" title="スロット店情報" url="http://kohada.2ch.net/slotj/" />
+    <board dir="slotk" title="スロット機種" url="http://anago.2ch.net/slotk/" />
+    <board dir="keiba" title="競馬" url="http://awabi.2ch.net/keiba/" />
+    <board dir="uma" title="競馬２" url="http://kohada.2ch.net/uma/" />
+    <board dir="keirin" title="競輪" url="http://engawa.2ch.net/keirin/" />
+    <board dir="kyotei" title="競艇" url="http://kohada.2ch.net/kyotei/" />
+    <board dir="autorace" title="オートレース" url="http://engawa.2ch.net/autorace/" />
+    <board dir="gamble" title="ギャンブル" url="http://engawa.2ch.net/gamble/" />
+    <board dir="loto" title="宝くじ" url="http://engawa.2ch.net/loto/" />
+  </category>
+  <category title="ゲーム">
+    <board dir="gsaloon" title="ゲームサロン" url="http://toro.2ch.net/gsaloon/" />
+    <board dir="gamenews" title="ゲーム速報" url="http://awabi.2ch.net/gamenews/" />
+    <board dir="gameover" title="家ゲー攻略" url="http://kohada.2ch.net/gameover/" />
+    <board dir="goveract" title="家ゲACT攻略" url="http://kohada.2ch.net/goveract/" />
+    <board dir="goverrpg" title="家ゲRPG攻略" url="http://kohada.2ch.net/goverrpg/" />
+    <board dir="gamerpg" title="家ゲーRPG" url="http://toro.2ch.net/gamerpg/" />
+    <board dir="ff" title="FF・ドラクエ" url="http://kohada.2ch.net/ff/" />
+    <board dir="gamesrpg" title="家ゲーSRPG" url="http://kohada.2ch.net/gamesrpg/" />
+    <board dir="gamerobo" title="ロボットゲー" url="http://toro.2ch.net/gamerobo/" />
+    <board dir="gal" title="ギャルゲー" url="http://toro.2ch.net/gal/" />
+    <board dir="gboy" title="女向ゲー大人" url="http://kohada.2ch.net/gboy/" />
+    <board dir="ggirl" title="女向ゲー一般" url="http://kohada.2ch.net/ggirl/" />
+    <board dir="gamespo" title="スポーツ・RACE" url="http://kohada.2ch.net/gamespo/" />
+    <board dir="gamehis" title="歴史ゲーム" url="http://kohada.2ch.net/gamehis/" />
+    <board dir="otoge" title="音ゲー" url="http://kohada.2ch.net/otoge/" />
+    <board dir="gamefight" title="格闘ゲーム" url="http://ikura.2ch.net/gamefight/" />
+    <board dir="gamestg" title="シューティング" url="http://kohada.2ch.net/gamestg/" />
+    <board dir="gamef" title="PCアクション" url="http://kohada.2ch.net/gamef/" />
+    <board dir="fly" title="フライトシム" url="http://kohada.2ch.net/fly/" />
+    <board dir="famicom" title="家庭用ゲーム" url="http://toro.2ch.net/famicom/" />
+    <board dir="zgame" title="家ゲーZ区分" url="http://anago.2ch.net/zgame/" />
+    <board dir="retro" title="レトロゲーム" url="http://kohada.2ch.net/retro/" />
+    <board dir="retro2" title="家ゲーレトロ" url="http://kohada.2ch.net/retro2/" />
+    <board dir="game90" title="レトロ32bit以上" url="http://kohada.2ch.net/game90/" />
+    <board dir="arc" title="アーケード" url="http://toro.2ch.net/arc/" />
+    <board dir="rarc" title="アケゲーレトロ" url="http://anago.2ch.net/rarc/" />
+    <board dir="amusement" title="メダル・プライズ" url="http://kohada.2ch.net/amusement/" />
+    <board dir="gecen" title="ゲーセン" url="http://kohada.2ch.net/gecen/" />
+    <board dir="game" title="PCゲーム" url="http://anago.2ch.net/game/" />
+    <board dir="gameama" title="同人ゲーム" url="http://engawa.2ch.net/gameama/" />
+    <board dir="gameswf" title="ブラウザゲーム" url="http://uni.2ch.net/gameswf/" />
+    <board dir="cgame" title="卓上ゲーム" url="http://kohada.2ch.net/cgame/" />
+    <board dir="tcg" title="TCG" url="http://anago.2ch.net/tcg/" />
+    <board dir="bgame" title="将棋・チェス" url="http://toro.2ch.net/bgame/" />
+    <board dir="gamestones" title="囲碁・オセロ" url="http://kohada.2ch.net/gamestones/" />
+    <board dir="quiz" title="クイズ雑学" url="http://kohada.2ch.net/quiz/" />
+    <board dir="ghard" title="ハード・業界" url="http://anago.2ch.net/ghard/" />
+    <board dir="gameurawaza" title="裏技・改造" url="http://kohada.2ch.net/gameurawaza/" />
+    <board dir="gamechara" title="ゲームキャラ" url="http://kohada.2ch.net/gamechara/" />
+    <board dir="gamemusic" title="ゲーム音楽" url="http://kohada.2ch.net/gamemusic/" />
+  </category>
+  <category title="携帯型ゲーム">
+    <board dir="handygame" title="携帯ゲーソフト" url="http://toro.2ch.net/handygame/" />
+    <board dir="handygover" title="携帯ゲー攻略" url="http://kohada.2ch.net/handygover/" />
+    <board dir="handygrpg" title="携帯ゲーRPG" url="http://toro.2ch.net/handygrpg/" />
+    <board dir="poke" title="ポケモン" url="http://kohada.2ch.net/poke/" />
+    <board dir="wifi" title="Wi-Fi" url="http://kohada.2ch.net/wifi/" />
+    <board dir="rhandyg" title="携帯ゲーレトロ" url="http://kohada.2ch.net/rhandyg/" />
+    <board dir="pokechara" title="携帯ゲーキャラ" url="http://kohada.2ch.net/pokechara/" />
+  </category>
+  <category title="ネットゲーム">
+    <board dir="mmonews" title="ネトゲ速報" url="http://engawa.2ch.net/mmonews/" />
+    <board dir="mmoqa" title="ネトゲ質問" url="http://kohada.2ch.net/mmoqa/" />
+    <board dir="ogame" title="ネトゲ実況" url="http://awabi.2ch.net/ogame/" />
+    <board dir="ogame2" title="ネトゲ実況2" url="http://awabi.2ch.net/ogame2/" />
+    <board dir="ogame3" title="ネトゲ実況3" url="http://awabi.2ch.net/ogame3/" />
+    <board dir="mmosaloon" title="ネトゲサロン" url="http://kohada.2ch.net/mmosaloon/" />
+    <board dir="netgame" title="ネットゲーム" url="http://toro.2ch.net/netgame/" />
+    <board dir="mmo" title="大規模MMO" url="http://toro.2ch.net/mmo/" />
+    <board dir="mmominor" title="小規模MMO" url="http://kohada.2ch.net/mmominor/" />
+  </category>
+  <category title="漫画・小説等">
+    <board dir="comicnews" title="アニメ漫画速報" url="http://engawa.2ch.net/comicnews/" />
+    <board dir="asaloon" title="アニメサロン" url="http://awabi.2ch.net/asaloon/" />
+    <board dir="anime4vip" title="アニメサロンex" url="http://uni.2ch.net/anime4vip/" />
+    <board dir="anime" title="アニメ" url="http://toro.2ch.net/anime/" />
+    <board dir="anime2" title="アニメ２" url="http://ikura.2ch.net/anime2/" />
+    <board dir="anime3" title="アニメ新作情報" url="http://engawa.2ch.net/anime3/" />
+    <board dir="ranime" title="懐アニ昭和" url="http://engawa.2ch.net/ranime/" />
+    <board dir="ranimeh" title="懐アニ平成" url="http://engawa.2ch.net/ranimeh/" />
+    <board dir="animovie" title="アニメ映画" url="http://kohada.2ch.net/animovie/" />
+    <board dir="anichara" title="アニキャラ総合" url="http://engawa.2ch.net/anichara/" />
+    <board dir="anichara2" title="アニキャラ個別" url="http://ikura.2ch.net/anichara2/" />
+    <board dir="cosp" title="コスプレ" url="http://kohada.2ch.net/cosp/" />
+    <board dir="voice" title="声優総合" url="http://uni.2ch.net/voice/" />
+    <board dir="voiceactor" title="声優個人" url="http://ikura.2ch.net/voiceactor/" />
+    <board dir="doujin" title="同人" url="http://kohada.2ch.net/doujin/" />
+    <board dir="comiket" title="同人イベント" url="http://uni.2ch.net/comiket/" />
+    <board dir="csaloon" title="漫画サロン" url="http://kohada.2ch.net/csaloon/" />
+    <board dir="comic" title="漫画" url="http://kohada.2ch.net/comic/" />
+    <board dir="rcomic" title="懐かし漫画" url="http://kohada.2ch.net/rcomic/" />
+    <board dir="ymag" title="少年漫画" url="http://kohada.2ch.net/ymag/" />
+    <board dir="wcomic" title="週刊少年漫画" url="http://ikura.2ch.net/wcomic/" />
+    <board dir="gcomic" title="少女漫画" url="http://kohada.2ch.net/gcomic/" />
+    <board dir="4koma" title="４コマ漫画" url="http://kohada.2ch.net/4koma/" />
+    <board dir="cchara" title="漫画キャラ" url="http://kohada.2ch.net/cchara/" />
+    <board dir="sakura" title="CCさくら" url="http://engawa.2ch.net/sakura/" />
+    <board dir="eva" title="エヴァ" url="http://engawa.2ch.net/eva/" />
+    <board dir="cartoon" title="海外アニメ漫画" url="http://kohada.2ch.net/cartoon/" />
+    <board dir="iga" title="アニメ漫画業界" url="http://kohada.2ch.net/iga/" />
+    <board dir="bookall" title="文芸書籍サロン" url="http://toro.2ch.net/bookall/" />
+    <board dir="magazin" title="ライトノベル" url="http://toro.2ch.net/magazin/" />
+    <board dir="mystery" title="ミステリー" url="http://toro.2ch.net/mystery/" />
+    <board dir="sf" title="SF・FT・ホラー" url="http://toro.2ch.net/sf/" />
+    <board dir="litechara" title="文芸キャラ" url="http://uni.2ch.net/litechara/" />
+    <board dir="zassi" title="雑誌" url="http://toro.2ch.net/zassi/" />
+    <board dir="books" title="一般書籍" url="http://toro.2ch.net/books/" />
+    <board dir="ebooks" title="電子書籍" url="http://uni.2ch.net/ebooks/" />
+    <board dir="ehon" title="絵本" url="http://toro.2ch.net/ehon/" />
+    <board dir="juvenile" title="児童書" url="http://toro.2ch.net/juvenile/" />
+    <board dir="illustrator" title="イラストレーター" url="http://toro.2ch.net/illustrator/" />
+  </category>
+  <category title="音楽">
+    <board dir="musicnews" title="芸能音楽速報" url="http://ikura.2ch.net/musicnews/" />
+    <board dir="msaloon" title="音楽サロン" url="http://awabi.2ch.net/msaloon/" />
+    <board dir="mjsaloon" title="邦楽サロン" url="http://awabi.2ch.net/mjsaloon/" />
+    <board dir="musicj" title="邦楽" url="http://awabi.2ch.net/musicj/" />
+    <board dir="musicjm" title="邦楽男性ソロ" url="http://awabi.2ch.net/musicjm/" />
+    <board dir="musicjf" title="邦楽女性ソロ" url="http://awabi.2ch.net/musicjf/" />
+    <board dir="musicjg" title="邦楽グループ" url="http://toro.2ch.net/musicjg/" />
+    <board dir="natsumeloj" title="懐メロ邦楽" url="http://uni.2ch.net/natsumeloj/" />
+    <board dir="enka" title="演歌" url="http://awabi.2ch.net/enka/" />
+    <board dir="mesaloon" title="洋楽サロン" url="http://awabi.2ch.net/mesaloon/" />
+    <board dir="musice" title="洋楽" url="http://awabi.2ch.net/musice/" />
+    <board dir="natsumeloe" title="懐メロ洋楽" url="http://ikura.2ch.net/natsumeloe/" />
+    <board dir="music" title="音楽一般" url="http://awabi.2ch.net/music/" />
+    <board dir="beatles" title="ビートルズ" url="http://uni.2ch.net/beatles/" />
+    <board dir="visual" title="ヴィジュサロン" url="http://anago.2ch.net/visual/" />
+    <board dir="visualb" title="ヴィジュバンド" url="http://toro.2ch.net/visualb/" />
+    <board dir="dj" title="ＤＪ・クラブ" url="http://awabi.2ch.net/dj/" />
+    <board dir="disco" title="ディスコ" url="http://awabi.2ch.net/disco/" />
+    <board dir="randb" title="R&amp;B・SOUL" url="http://awabi.2ch.net/randb/" />
+    <board dir="punk" title="パンク" url="http://awabi.2ch.net/punk/" />
+    <board dir="hrhm" title="HR・HM" url="http://awabi.2ch.net/hrhm/" />
+    <board dir="hiphop" title="HIPHOP" url="http://awabi.2ch.net/hiphop/" />
+    <board dir="techno" title="TECHNO" url="http://awabi.2ch.net/techno/" />
+    <board dir="progre" title="プログレ" url="http://awabi.2ch.net/progre/" />
+    <board dir="healmusic" title="ヒーリング音楽" url="http://ikura.2ch.net/healmusic/" />
+    <board dir="wmusic" title="ワールド音楽" url="http://awabi.2ch.net/wmusic/" />
+    <board dir="reggae" title="レゲエ" url="http://anago.2ch.net/reggae/" />
+    <board dir="classic" title="ジャズ" url="http://awabi.2ch.net/classic/" />
+    <board dir="fusion" title="フュージョン" url="http://ikura.2ch.net/fusion/" />
+    <board dir="classical" title="クラシック" url="http://awabi.2ch.net/classical/" />
+    <board dir="contemporary" title="現代音楽" url="http://awabi.2ch.net/contemporary/" />
+    <board dir="nika" title="エレクトロニカ" url="http://awabi.2ch.net/nika/" />
+    <board dir="suisou" title="吹奏楽" url="http://awabi.2ch.net/suisou/" />
+    <board dir="chorus" title="合唱" url="http://ikura.2ch.net/chorus/" />
+    <board dir="doyo" title="童謡・唱歌" url="http://awabi.2ch.net/doyo/" />
+    <board dir="asong" title="アニソン等" url="http://kohada.2ch.net/asong/" />
+    <board dir="soundtrack" title="サントラ" url="http://ikura.2ch.net/soundtrack/" />
+    <board dir="karaok" title="カラオケ" url="http://awabi.2ch.net/karaok/" />
+    <board dir="legend" title="伝説の" url="http://awabi.2ch.net/legend/" />
+    <board dir="minor" title="インディーズ" url="http://awabi.2ch.net/minor/" />
+    <board dir="band" title="バンド" url="http://ikura.2ch.net/band/" />
+    <board dir="compose" title="楽器・作曲" url="http://awabi.2ch.net/compose/" />
+    <board dir="piano" title="鍵盤楽器" url="http://ikura.2ch.net/piano/" />
+  </category>
+  <category title="心と身体">
+    <board dir="healing" title="癒し" url="http://uni.2ch.net/healing/" />
+    <board dir="jinsei" title="人生相談" url="http://uni.2ch.net/jinsei/" />
+    <board dir="psy" title="心と宗教" url="http://uni.2ch.net/psy/" />
+    <board dir="body" title="身体・健康" url="http://uni.2ch.net/body/" />
+    <board dir="stretch" title="マッサージ等" url="http://uni.2ch.net/stretch/" />
+    <board dir="handicap" title="ハンディキャップ" url="http://engawa.2ch.net/handicap/" />
+    <board dir="cancer" title="癌・腫瘍" url="http://engawa.2ch.net/cancer/" />
+    <board dir="nanbyou" title="難病" url="http://uni.2ch.net/nanbyou/" />
+    <board dir="infection" title="新型感染症" url="http://ikura.2ch.net/infection/" />
+    <board dir="hiv" title="HIVサロン" url="http://toro.2ch.net/hiv/" />
+    <board dir="atopi" title="アトピー" url="http://uni.2ch.net/atopi/" />
+    <board dir="allergy" title="アレルギー" url="http://uni.2ch.net/allergy/" />
+    <board dir="hage" title="ハゲ・ズラ" url="http://uni.2ch.net/hage/" />
+    <board dir="pure" title="純情恋愛" url="http://toro.2ch.net/pure/" />
+    <board dir="furin" title="不倫・浮気" url="http://toro.2ch.net/furin/" />
+    <board dir="gay" title="同性愛" url="http://toro.2ch.net/gay/" />
+    <board dir="utu" title="メンタルヘルス" url="http://toro.2ch.net/utu/" />
+    <board dir="break" title="失恋" url="http://toro.2ch.net/break/" />
+  </category>
+  <category title="ＰＣ等">
+    <board dir="pc2nanmin" title="PCサロン" url="http://engawa.2ch.net/pc2nanmin/" />
+    <board dir="pcnews" title="PCニュース" url="http://kohada.2ch.net/pcnews/" />
+    <board dir="win" title="Windows" url="http://toro.2ch.net/win/" />
+    <board dir="jobs" title="旧・mac" url="http://engawa.2ch.net/jobs/" />
+    <board dir="mac" title="新・mac" url="http://anago.2ch.net/mac/" />
+    <board dir="os" title="OS" url="http://kohada.2ch.net/os/" />
+    <board dir="desktop" title="デスクトップ" url="http://toro.2ch.net/desktop/" />
+    <board dir="pc" title="パソコン一般" url="http://kohada.2ch.net/pc/" />
+    <board dir="notepc" title="ノートPC" url="http://anago.2ch.net/notepc/" />
+    <board dir="jisaku" title="自作PC" url="http://anago.2ch.net/jisaku/" />
+    <board dir="printer" title="プリンタ" url="http://kohada.2ch.net/printer/" />
+    <board dir="hard" title="ハードウェア" url="http://toro.2ch.net/hard/" />
+    <board dir="cdr" title="CD-R,DVD" url="http://toro.2ch.net/cdr/" />
+    <board dir="software" title="ソフトウェア" url="http://anago.2ch.net/software/" />
+    <board dir="mobile" title="モバイル" url="http://anago.2ch.net/mobile/" />
+    <board dir="bsoft" title="ビジネスsoft" url="http://toro.2ch.net/bsoft/" />
+    <board dir="unix" title="UNIX" url="http://toro.2ch.net/unix/" />
+    <board dir="db" title="データベース" url="http://toro.2ch.net/db/" />
+    <board dir="linux" title="Linux" url="http://engawa.2ch.net/linux/" />
+    <board dir="prog" title="プログラマー" url="http://kohada.2ch.net/prog/" />
+    <board dir="tech" title="プログラム" url="http://toro.2ch.net/tech/" />
+    <board dir="cg" title="ＣＧ" url="http://toro.2ch.net/cg/" />
+    <board dir="dtm" title="DTM" url="http://anago.2ch.net/dtm/" />
+    <board dir="avi" title="DTV" url="http://toro.2ch.net/avi/" />
+    <board dir="swf" title="FLASH" url="http://toro.2ch.net/swf/" />
+    <board dir="gamedev" title="ゲ製作技術" url="http://toro.2ch.net/gamedev/" />
+    <board dir="i4004" title="昔のPC" url="http://ikura.2ch.net/i4004/" />
+  </category>
+  <category title="ネット関係">
+    <board dir="internet" title="インターネット" url="http://toro.2ch.net/internet/" />
+    <board dir="download" title="Download" url="http://awabi.2ch.net/download/" />
+    <board dir="hp" title="Web制作" url="http://toro.2ch.net/hp/" />
+    <board dir="affiliate" title="Web収入" url="http://toro.2ch.net/affiliate/" />
+    <board dir="hosting" title="レンタル鯖" url="http://toro.2ch.net/hosting/" />
+    <board dir="mysv" title="自宅サーバ" url="http://engawa.2ch.net/mysv/" />
+    <board dir="php" title="WebProg" url="http://kohada.2ch.net/php/" />
+    <board dir="hack" title="ネットワーク" url="http://toro.2ch.net/hack/" />
+    <board dir="sec" title="セキュリティ" url="http://kohada.2ch.net/sec/" />
+    <board dir="network" title="通信技術" url="http://engawa.2ch.net/network/" />
+    <board dir="ipv6" title="IPv6" url="http://ipv6.2ch.net/ipv6/" />
+    <board dir="friend" title="ポスペ・irc" url="http://toro.2ch.net/friend/" />
+    <board dir="isp" title="プロバイダー" url="http://engawa.2ch.net/isp/" />
+    <board dir="netspot" title="ネットカフェ" url="http://engawa.2ch.net/netspot/" />
+    <board dir="nifty" title="Nifty" url="http://kohada.2ch.net/nifty/" />
+    <board dir="google" title="Google" url="http://toro.2ch.net/google/" />
+    <board dir="mmag" title="メルマガ" url="http://engawa.2ch.net/mmag/" />
+    <board dir="nanmin" title="難民" url="http://kohada.2ch.net/nanmin/" />
+    <board dir="ad" title="宣伝掲示板" url="http://engawa.2ch.net/ad/" />
+    <board dir="esite" title="ネットサービス" url="http://toro.2ch.net/esite/" />
+    <board dir="streaming" title="YouTube" url="http://anago.2ch.net/streaming/" />
+    <board dir="mstreaming" title="携帯動画" url="http://engawa.2ch.net/mstreaming/" />
+    <board dir="mdis" title="音楽配信" url="http://awabi.2ch.net/mdis/" />
+    <board dir="netradio" title="ネットラジオ等" url="http://hayabusa.2ch.net/netradio/" />
+    <board dir="blog" title="ブログ" url="http://toro.2ch.net/blog/" />
+    <board dir="sns" title="ソーシャルネット" url="http://anago.2ch.net/sns/" />
+    <board dir="net" title="ネットwatch" url="http://awabi.2ch.net/net/" />
+    <board dir="twwatch" title="ツイッター観察" url="http://uni.2ch.net/twwatch/" />
+    <board dir="yahoo" title="オークション" url="http://anago.2ch.net/yahoo/" />
+    <board dir="nntp" title="nntp" url="http://kohada.2ch.net/nntp/" />
+  </category>
+  <category title="雑談系２">
+    <board dir="bobby" title="おいらロビー" url="http://ikura.2ch.net/bobby/" />
+    <board dir="lobby" title="ロビー" url="http://anago.2ch.net/lobby/" />
+    <board dir="maru" title="●" url="http://ikura.2ch.net/maru/" />
+    <board dir="mog2" title="なんでもあり" url="http://awabi.2ch.net/mog2/" />
+    <board dir="mukashi" title="昔" url="http://ikura.2ch.net/mukashi/" />
+    <board dir="kitchen" title="厨房！" url="http://toro.2ch.net/kitchen/" />
+    <board dir="tubo" title="最悪" url="http://anago.2ch.net/tubo/" />
+    <board dir="joke" title="学歴" url="http://ikura.2ch.net/joke/" />
+    <board dir="shugi" title="主義・主張" url="http://anago.2ch.net/shugi/" />
+    <board dir="rights" title="人権問題" url="http://anago.2ch.net/rights/" />
+    <board dir="accuse" title="2ch批判要望" url="http://engawa.2ch.net/accuse/" />
+    <board dir="morningcoffee" title="モ娘（狼）" url="http://hayabusa3.2ch.net/morningcoffee/" />
+    <board dir="ranking" title="格付け" url="http://engawa.2ch.net/ranking/" />
+    <board dir="record" title="新記録・珍記録" url="http://anago.2ch.net/record/" />
+    <board dir="siberia" title="シベリア超速報" url="http://toro.2ch.net/siberia/" />
+    <board dir="news4vip" title="ニュー速VIP" url="http://hayabusa.2ch.net/news4vip/" />
+    <board dir="news4viptasu" title="ニュー速VIP+" url="http://hayabusa3.2ch.net/news4viptasu/" />
+    <board dir="poverty" title="ニュー速(嫌儲)" url="http://engawa.2ch.net/poverty/" />
+    <board dir="heaven4vip" title="天国" url="http://anago.2ch.net/heaven4vip/" />
+    <board dir="neet4vip" title="ニー速" url="http://anago.2ch.net/neet4vip/" />
+    <board dir="aniki" title="ガチホモ" url="http://engawa.2ch.net/aniki/" />
+  </category>
+  <category title="チャット">
+    <board title="２ｃｈ＠ＩＲＣ" url="http://irc.2ch.net/" />
+  </category>
+  <category title="運営案内">
+    <board title="ガイドライン" url="http://info.2ch.net/guide/adv.html" />
+    <board title="削除屋ＭＬ" url="http://members.tripod.co.jp/Backy/del_2ch/" />
+    <board title="2chメルマガ" url="http://info.2ch.net/mag.html" />
+    <board title="夜勤の巣" url="http://www.yakin.cc/" />
+    <board title="●売り場" url="http://2ch.tora3.net/" />
+    <board dir="saku" title="削除依頼" url="http://qb5.2ch.net/saku/" />
+    <board dir="accuse" title="批判要望" url="http://engawa.2ch.net/accuse/" />
+  </category>
+  <category title="ツール類">
+    <board title="2chツール" url="http://www.monazilla.org/" />
+    <board title="domo2" url="http://www.domo2.net/" />
+    <board title="DAT2HTML" url="http://tatsu01.sakura.ne.jp/" />
+    <board title="AAエディタ" url="http://monahokan.web.fc2.com/AAE/" />
+    <board title="めすじぇね" url="http://dolneco.at.infoseek.co.jp/OFF-LAW/MeChGen.html" />
+    <board title="大先生の検索" url="http://www.amezoscape.to/" />
+    <board title="2ch検索" url="http://2ken.net/" />
+    <board title="スレッド検索" url="http://2chs.net/i/2chs.cgi" />
+    <board title="発言統計" url="http://xagebsse.hypermart.net/" />
+  </category>
+  <category title="BBSPINK">
+    <board title="TOPページ" url="http://www.bbspink.com/" />
+    <board dir="bbypink" title="PINKheadline" url="http://headline.bbspink.com/bbypink/" />
+    <board dir="hnews" title="ピンクニュース" url="http://pele.bbspink.com/hnews/" />
+    <board dir="pinkqa" title="pink初心者" url="http://pele.bbspink.com/pinkqa/" />
+    <board dir="sureh" title="スレH・エロ会話" url="http://pele.bbspink.com/sureh/" />
+    <board dir="erolive" title="大人の実況" url="http://pele.bbspink.com/erolive/" />
+    <board dir="hneta" title="えっちねた" url="http://kilauea.bbspink.com/hneta/" />
+    <board dir="pinkcafe" title="PINKのおいらロ" url="http://pele.bbspink.com/pinkcafe/" />
+    <board dir="eromog2" title="PINKのなんでも" url="http://pele.bbspink.com/eromog2/" />
+    <board dir="ogefin" title="お下品" url="http://pele.bbspink.com/ogefin/" />
+    <board dir="pinknanmin" title="ぴんく難民" url="http://kilauea.bbspink.com/pinknanmin/" />
+    <board dir="erobbs" title="pink秘密基地" url="http://pele.bbspink.com/erobbs/" />
+    <board dir="housekeeping" title="PINK削除依頼" url="http://pele.bbspink.com/housekeeping/" />
+    <board dir="ccc" title="PINK規制議論" url="http://pele.bbspink.com/ccc/" />
+    <board dir="21oversea2" title="大人の海外" url="http://pele.bbspink.com/21oversea2/" />
+    <board dir="hgame" title="エロゲー" url="http://kilauea.bbspink.com/hgame/" />
+    <board dir="hgame2" title="エロゲー作品別" url="http://kilauea.bbspink.com/hgame2/" />
+    <board dir="erog" title="エロゲネタ" url="http://pele.bbspink.com/erog/" />
+    <board dir="leaf" title="Leaf・key" url="http://pele.bbspink.com/leaf/" />
+    <board dir="adultsite" title="アダルトサイト" url="http://pele.bbspink.com/adultsite/" />
+    <board dir="webmaster" title="ウェブマスター" url="http://pele.bbspink.com/webmaster/" />
+    <board dir="avideo" title="AV総合" url="http://pele.bbspink.com/avideo/" />
+    <board dir="avideo2" title="AV女優" url="http://pele.bbspink.com/avideo2/" />
+    <board dir="nude" title="ヌード・エロ本" url="http://pele.bbspink.com/nude/" />
+    <board dir="eroanime" title="エロアニメ等" url="http://pele.bbspink.com/eroanime/" />
+    <board dir="erocomic" title="エロ漫画小説" url="http://pele.bbspink.com/erocomic/" />
+    <board dir="erodoujin" title="エロ同人" url="http://pele.bbspink.com/erodoujin/" />
+    <board dir="natuero" title="懐かしエロ" url="http://pele.bbspink.com/natuero/" />
+    <board dir="kgirls" title="韓国美人" url="http://pele.bbspink.com/kgirls/" />
+    <board dir="erocosp" title="エロコスプレ" url="http://pele.bbspink.com/erocosp/" />
+    <board dir="eroacademy" title="PINKな学問" url="http://pele.bbspink.com/eroacademy/" />
+    <board dir="mcheck" title="健康相談(大人)" url="http://pele.bbspink.com/mcheck/" />
+    <board dir="couple" title="夫婦生活" url="http://pele.bbspink.com/couple/" />
+    <board dir="kageki" title="過激な恋愛" url="http://pele.bbspink.com/kageki/" />
+    <board dir="kageki2" title="大人の恋愛" url="http://pele.bbspink.com/kageki2/" />
+    <board dir="onatech" title="オナテク" url="http://pele.bbspink.com/onatech/" />
+    <board dir="loveho" title="ラブホテル" url="http://pele.bbspink.com/loveho/" />
+    <board dir="adultgoods" title="アダルトグッズ" url="http://pele.bbspink.com/adultgoods/" />
+    <board dir="adultaccessory" title="大人の飾り" url="http://pele.bbspink.com/adultaccessory/" />
+    <board dir="sm" title="ＳＭ" url="http://pele.bbspink.com/sm/" />
+    <board dir="feti" title="フェチ" url="http://pele.bbspink.com/feti/" />
+    <board dir="mature" title="熟女" url="http://pele.bbspink.com/mature/" />
+    <board dir="okama" title="おかま・おなべ" url="http://pele.bbspink.com/okama/" />
+    <board dir="gaypink" title="大人の同性愛" url="http://pele.bbspink.com/gaypink/" />
+    <board dir="lesbian" title="レズ・百合萌え" url="http://pele.bbspink.com/lesbian/" />
+    <board dir="eroaa" title="エロAA" url="http://pele.bbspink.com/eroaa/" />
+    <board dir="erochara" title="キャラサロン" url="http://pele.bbspink.com/erochara/" />
+    <board dir="erochara2" title="オリキャラ" url="http://pele.bbspink.com/erochara2/" />
+    <board dir="801" title="８０１" url="http://pele.bbspink.com/801/" />
+    <board dir="erocg" title="お絵描き・創作" url="http://pele.bbspink.com/erocg/" />
+    <board dir="eroparo" title="エロパロ" url="http://pele.bbspink.com/eroparo/" />
+    <board dir="ascii" title="半角文字列" url="http://kilauea.bbspink.com/ascii/" />
+    <board dir="ascii2d" title="半角二次元" url="http://pele.bbspink.com/ascii2d/" />
+    <board dir="ascii2kana" title="半角かな" url="http://kilauea.bbspink.com/ascii2kana/" />
+    <board dir="girls" title="アイドル画像" url="http://pele.bbspink.com/girls/" />
+    <board dir="sportgirls" title="スポーツ画像" url="http://pele.bbspink.com/sportgirls/" />
+    <board dir="club" title="風俗全般" url="http://kilauea.bbspink.com/club/" />
+    <board dir="pub" title="お水出会い系" url="http://kilauea.bbspink.com/pub/" />
+    <board dir="host" title="ホストクラブ" url="http://pele.bbspink.com/host/" />
+    <board dir="nuki" title="へるす" url="http://kilauea.bbspink.com/nuki/" />
+    <board dir="soap" title="ソープ" url="http://kilauea.bbspink.com/soap/" />
+    <board dir="neet4pink" title="ニー速(pink)" url="http://pele.bbspink.com/neet4pink/" />
+    <board dir="cherryboy" title="童貞" url="http://kilauea.bbspink.com/cherryboy/" />
+    <board dir="megami" title="女神" url="http://kilauea.bbspink.com/megami/" />
+    <board dir="bbbb" title="English" url="http://kilauea.bbspink.com/bbbb/" />
+  </category>
+  <category title="まちＢＢＳ">
+    <board title="TOPページ" url="http://www.machi.to/" />
+    <board title="会議室" url="http://www.machi.to/tawara/" />
+    <board title="北海道" url="http://hokkaido.machi.to/hokkaidou/" />
+    <board title="東北" url="http://tohoku.machi.to/touhoku/" />
+    <board title="北陸・甲信越" url="http://kousinetu.machi.to/kousinetu/" />
+    <board title="関東" url="http://kanto.machi.to/kanto/" />
+    <board title="東京" url="http://tokyo.machi.to/tokyo/" />
+    <board title="多摩" url="http://kanto.machi.to/tama/" />
+    <board title="神奈川" url="http://kanto.machi.to/kana/" />
+    <board title="東海" url="http://tokai.machi.to/toukai/" />
+    <board title="近畿" url="http://kinki.machi.to/kinki/" />
+    <board title="大阪" url="http://kinki.machi.to/osaka/" />
+    <board title="中国" url="http://chugoku.machi.to/cyugoku/" />
+    <board title="四国" url="http://sikoku.machi.to/sikoku/" />
+    <board title="九州" url="http://kyusyu.machi.to/kyusyu/" />
+    <board title="沖縄" url="http://okinawa.machi.to/okinawa/" />
+  </category>
+  <category title="他のサイト">
+    <board title="megabbs" url="http://www.megabbs.com/" />
+    <board title="MILKCAFE" url="http://www.milkcafe.net/" />
+    <board title="レンサバ比較" url="http://svnews.jp/" />
+    <board title="ペンフロ" url="http://ma-na.biz/" />
+  </category>
+</bbsmenu>
+

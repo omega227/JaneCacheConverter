@@ -1,0 +1,4 @@
+﻿2CH API http://38-ch.net/bbsmenu/
+
+BBS MENU 取得
+http://38-ch.net/bbsmenu/get?format=xml&charset=UTF-8
